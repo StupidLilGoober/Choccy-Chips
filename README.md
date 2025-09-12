@@ -1,4 +1,6 @@
 # What is Choccy Chips?
+![Choccy Logo](img/Choccy.png "Choccy")
+
 Choccy chips is a single .js file that allows you to
 easily use .json files for your cookies, allowing
 for higher-detail user data.
