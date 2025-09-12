@@ -1,15 +1,7 @@
 # What is Choccy Chips?
-<style>
-    img {
-        image-rendering: pixelated; /* Modern browsers */
-        image-rendering: -moz-crisp-edges; /* Firefox */
-        image-rendering: -webkit-optimize-contrast; /* Chrome, Safari */
-        image-rendering: optimizeSpeed; /* Older browsers, may not be as effective */
-        -ms-interpolation-mode: nearest-neighbor; /* Internet Explorer */
-    }
-</style>
 
-<img src="img/Choccy.png" width="200" height="200">
+
+<img src="img/Choccy.png" width="200" height="200", >
 
 Choccy chips is a single .js file that allows you to
 easily use .json files for your cookies, allowing
