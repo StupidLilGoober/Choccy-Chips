@@ -17,6 +17,6 @@ keep the info.txt file, and edit it appropriately.
 It is easy. There is no other reason, really. Why create
 your own solution when the solution is *right* here?
 
-# Is Choccy Chips easily extensible?
+## Is Choccy Chips easily extensible?
 Of course! The info.txt file does not prohibit modifications,
 and adding anything related to your cookie solving is allowed.
