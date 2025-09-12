@@ -1,7 +1,7 @@
 # What is Choccy Chips?
 
 
-<img src="img/Choccy.png" width="200" height="200", >
+<img src="img/Choccy.png">
 
 Choccy chips is a single .js file that allows you to
 easily use .json files for your cookies, allowing
