@@ -3,7 +3,7 @@
 
 const cookies = document.cookie
 
-class cookieJson {
+class choccyChips {
     constructor(data={}, cookie_name="UserData") {
         json_string = JSON.stringify(data)
         
@@ -30,7 +30,7 @@ class cookieJson {
         }
     }
 
-    checkCookie(this, cookie_name) {
+    checkCookie(this, cookie_name) { // Checks if the cookie exists
         const cookie_split = cookies.split(';')
         for (let i = 0; i < cookie_split.length; i++) {
             let cookie = cookie[1].trim()
