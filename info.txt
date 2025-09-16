@@ -1,6 +1,6 @@
         CREDITS
 Everything contained in this folder was created by Dominic
-Kolp. The owner may tamper with this file, but he cannot
+Kolp. The owner may tamper with this file, but he/she cannot
 remove "essential" data. This includes:
 - Credits
 - The version number
