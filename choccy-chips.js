@@ -16,7 +16,7 @@ class choccyChips {
     }
 
     loadCookie(this) { // loads as a JSON object
-        if (checkCookie(this.cookie_name) === false) {
+        if (checkCookie(this) === false) {
             console.log("Cookie not found. Try checking if the user has the cookie first.")
             return
         }
