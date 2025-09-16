@@ -9,7 +9,7 @@ class choccyChips {
         
     }
 
-    saveCookie(this, cookieName, json_string) {
+    saveCookie(this, cookie_name, json_string) {
         document.cookie = `${cookie_name}=${json_string}`
     }
 
