@@ -16,4 +16,5 @@ your own solution when the solution is *right* here?
 
 ## Is Choccy Chips easily extensible?
 Of course! The info.txt file does not prohibit modifications,
-and adding anything related to your cookie solving is allowed.
+and adding anything related to your development is relatively
+easy.
